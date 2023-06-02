@@ -1,5 +1,5 @@
 # PSEi Stock Market Analysis
-This repository contains `jupyter` notebooks to analyze the stock market of the Philippines from `January 2000` to `May 2023`. It a contains machine learning technique to predict the price of the market.
+This repository contains `jupyter` notebooks to analyze the stock market of the Philippines from `January 2014` to `May 2023`. It a contains machine learning technique to predict the price of the market.
 Addionally, it contains yearly data of GDP and inflation rate that affects the Market.
 
 ### Published Notebook
